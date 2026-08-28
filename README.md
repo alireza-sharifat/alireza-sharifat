@@ -8,6 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=61DAFB&center=true&vCenter=true&width=480&lines=Building+clean%2C+fast+interfaces;HTML+%C2%B7+CSS+%C2%B7+JavaScript;React+%C2%B7+Next.js+%C2%B7+Node.js)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=alireza-sharifat&label=Profile%20Views&color=61DAFB&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/github/stars/alireza-sharifat?style=flat-square&logo=github&label=Stars&color=61DAFB" alt="GitHub stars" />
 
 </div>
 
@@ -48,16 +49,7 @@ I'm open to new projects and ideas worth building. Reach out if you have one.
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alireza-sharifat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza-sharifat&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alireza-sharifat&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alireza-sharifat&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" />
 </div>
 
 <br>
@@ -68,3 +60,4 @@ I'm open to new projects and ideas worth building. Reach out if you have one.
 |---|---|
 | Email | [alirezasharifat365@gmail.com](mailto:alirezasharifat365@gmail.com) |
 | Portfolio | [srtux.xyz](https://srtux.xyz) |
+| Telegram | [@srtu_x](https://t.me/srtu_x) |
